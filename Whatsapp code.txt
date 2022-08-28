@@ -9,3 +9,7 @@ Whatasapp Code
 4,  Attachment file code
 
 Hiding last seen
+
+Video call code 
+
+video quality code 
