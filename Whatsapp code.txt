@@ -7,3 +7,5 @@ Whatasapp Code
 3, Audio call code
 
 4,  Attachment file code
+
+Hiding last seen
